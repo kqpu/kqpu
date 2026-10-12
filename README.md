@@ -1,8 +1,8 @@
-<h2 data-importer="text" align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 data-importer="text" align="left">Hi 👋! My name is miguel.</h2>
 
 ###
 
-<img data-importer="image" align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img data-importer="image" align="right" height="150" src="file:///C:/Users/migue/Pictures/1591ec1d472232e620ef38d3203fde6d.jpg"  />
 
 ###
 
