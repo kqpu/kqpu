@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="54" viewBox="0 0 220 54" role="img" aria-labelledby="title">
+<title id="title">Twitter / X</title>
+<rect x=".5" y=".5" width="219" height="53" rx="10" fill="#080808" stroke="#3b3b3b"/>
+<g transform="translate(20 16)"><path d="M1 1h5l15 20h-5ZM20 1 1 21" fill="none" stroke="#eeeeee" stroke-width="1.8" stroke-linejoin="round"/></g>
+<text x="57" y="33" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600" fill="#e5e5e5">Twitter / X</text>
+<path d="M187 32 197 22m-8 0h8v8" fill="none" stroke="#888888" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
