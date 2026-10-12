@@ -10,7 +10,7 @@ Python · Tailwind CSS · Kali Linux · JavaScript · PHP · Dart
 
 <br>
 
-<img src="https://raw.githubusercontent.com/kqpu/kqpu/df98ea32de62c3c47c104ae324048f2234295ad6/assets/technologies.svg" width="960" alt="Tecnologias que conheço: Python, Tailwind CSS, Kali Linux (especialização em cibersegurança), JavaScript, PHP e Dart, em cartões pretos com ícones monocromáticos." />
+<img src="https://raw.githubusercontent.com/kqpu/kqpu/f6006ca34cc2251f61204d0a3477e20325976313/assets/technologies.svg" width="960" alt="Tecnologias que conheço: Python, Tailwind CSS, Kali Linux (estudante em cibersegurança), JavaScript, PHP e Dart, em cartões pretos com ícones monocromáticos." />
 
 <br>
 
@@ -18,4 +18,4 @@ Python · Tailwind CSS · Kali Linux · JavaScript · PHP · Dart
 
 </div>
 
-<!-- Ícones adaptados de Devicon (licença MIT em assets/icons/LICENSE-devicon.txt). -->
+<!-- Ícones: Devicon (MIT) e Kali Linux via Simple Icons (CC0). Licenças em assets/icons/. -->
