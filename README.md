@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/kqpu/kqpu/ecd46fb2458baa47b6dd5201a233f4d31c107b15/assets/banner.svg" width="960" alt="kqpu — ideias em código. Banner preto com esfera orbital prateada." />
+<img src="https://raw.githubusercontent.com/kqpu/kqpu/94fc347cec4d92c5bb93b1e2cf62ad41aca0c688/assets/banner.svg" width="960" alt="Miguel — banner preto com programador, notebook, terminal e escudo de cibersegurança." />
 
 <br>
 
