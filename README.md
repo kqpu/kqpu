@@ -8,6 +8,11 @@
 
 Python · Tailwind CSS · Kali Linux · JavaScript · PHP · MySQL
 
+<p align="center">
+  Aluno da instituição de ensino <strong>ETEC — Escola Técnica Estadual de São Paulo</strong>.<br>
+  Cursando o <strong>2º de 3 anos</strong> do curso de <strong>Informática para Internet</strong>.
+</p>
+
 <br>
 
 <img src="https://raw.githubusercontent.com/vfyx/vfyx/818b710ab2dff231bd06067ffda89974459f212d/assets/technologies.svg" width="960" alt="Tecnologias que conheço: Python, Tailwind CSS, Kali Linux (estudante em cibersegurança), JavaScript, PHP e MySQL, em cartões pretos com ícones monocromáticos." />
