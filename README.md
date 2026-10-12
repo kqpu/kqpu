@@ -1,4 +1,4 @@
-<h2 data-importer="text" align="left">miguel.</h2>
+<h2 data-importer="text" align="left">miguel</h2>
 
 ###
 
