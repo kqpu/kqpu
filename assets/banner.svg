@@ -1,28 +1,53 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="960" height="360" viewBox="0 0 960 360" role="img" aria-labelledby="title desc">
-<title id="title">kqpu — ideias em código.</title>
-<desc id="desc">Banner preto com tipografia branca e uma esfera orbital em linhas prateadas.</desc>
+<title id="title">Miguel — programação e cibersegurança</title>
+<desc id="desc">Banner preto com Miguel em branco e uma ilustração de programador diante de um notebook, terminal e escudo de segurança.</desc>
 <defs>
-<radialGradient id="halo"><stop stop-color="#252525"/><stop offset="1" stop-color="#030303"/></radialGradient>
-<linearGradient id="silver" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fafafa"/><stop offset=".5" stop-color="#777"/><stop offset="1" stop-color="#242424"/></linearGradient>
-<clipPath id="clip"><rect width="960" height="360" rx="16"/></clipPath>
+  <radialGradient id="ambient"><stop stop-color="#202725"/><stop offset="1" stop-color="#030303"/></radialGradient>
+  <linearGradient id="hood" x2="1" y2="1"><stop stop-color="#323735"/><stop offset=".5" stop-color="#151817"/><stop offset="1" stop-color="#090a09"/></linearGradient>
+  <linearGradient id="metal" x2="0" y2="1"><stop stop-color="#242827"/><stop offset="1" stop-color="#0b0d0c"/></linearGradient>
+  <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#a6d7bb" stroke-opacity=".035"/></pattern>
+  <clipPath id="frame"><rect width="960" height="360" rx="16"/></clipPath>
 </defs>
-<g clip-path="url(#clip)">
-<rect width="960" height="360" fill="#030303"/>
-<circle cx="763" cy="177" r="226" fill="url(#halo)"/>
-<g stroke="#171717" fill="none"><path d="M32 80H928M32 300H928M620 32V328"/><path d="M32 32h12m-6-6v12M916 32h12m-6-6v12M32 328h12m-6-6v12M916 328h12m-6-6v12" stroke="#666"/></g>
-<g transform="translate(762 185) rotate(-24)" stroke="url(#silver)" fill="none" stroke-width=".8">
-<circle r="112"/><ellipse rx="88" ry="112"/><ellipse rx="54" ry="112"/><ellipse rx="19" ry="112"/>
-<ellipse rx="112" ry="20"/><ellipse rx="112" ry="58"/><ellipse rx="112" ry="90"/>
-<ellipse rx="147" ry="40" transform="rotate(-18)" stroke="#aaa"/>
+<g clip-path="url(#frame)">
+  <rect width="960" height="360" fill="#030303"/>
+  <ellipse cx="734" cy="168" rx="245" ry="210" fill="url(#ambient)"/>
+  <rect x="500" width="460" height="300" fill="url(#grid)"/>
+  <g fill="none" stroke="#292e2b" stroke-width="1">
+    <path d="M520 72h52v35h38M876 74h31v67h24M514 244h62v-25h29M856 248h61v-53h18"/>
+    <circle cx="520" cy="72" r="3"/><circle cx="514" cy="244" r="3"/><circle cx="931" cy="141" r="3"/>
+  </g>
+  <g transform="translate(536 66)" font-family="Consolas, monospace">
+    <rect width="172" height="104" rx="7" fill="#070a08" stroke="#303a34"/>
+    <path d="M0 23H172" stroke="#27302a"/>
+    <circle cx="12" cy="12" r="2" fill="#718278"/><circle cx="21" cy="12" r="2" fill="#414c45"/><circle cx="30" cy="12" r="2" fill="#414c45"/>
+    <text x="12" y="44" fill="#9caf9f" font-size="9">~/miguel/security</text>
+    <text x="12" y="62" fill="#d0d8d2" font-size="9">&gt; code. secure. repeat.</text>
+    <path d="M12 77h49m6 0h32M12 88h27m6 0h72" stroke="#4a5c50" stroke-width="3"/>
+  </g>
+  <g transform="translate(836 89)" fill="none" stroke="#728c7b" stroke-width="1.5">
+    <path d="M0-29 31-17v29c0 21-31 39-31 39S-31 33-31 12v-29Z" fill="#0c120e"/>
+    <rect x="-12" y="-2" width="24" height="20" rx="3"/>
+    <path d="M-7-2v-7a7 7 0 0 1 14 0v7M0 6v6"/>
+  </g>
+  <!-- Silhueta de programador com capuz e notebook. -->
+  <path d="M632 266c0-58 24-93 52-111l17-22h66l20 24c35 15 60 63 63 109Z" fill="url(#hood)" stroke="#414843"/>
+  <path d="M677 159c-5-36 2-69 22-88 17-16 43-18 62-3 25 20 33 53 28 91l-27 35h-59Z" fill="url(#hood)" stroke="#4c554f"/>
+  <path d="M698 124c4-28 18-45 35-45s32 21 36 45l-16 44h-39Z" fill="#020303" stroke="#2f3832"/>
+  <path d="m692 160 18 35m67-35-19 35M670 193l-19 56m146-55 26 54" fill="none" stroke="#535e56" stroke-opacity=".5"/>
+  <path d="M647 195h176l-17 88H665Z" fill="url(#metal)" stroke="#606c63"/>
+  <path d="m636 283 12 9h175l13-9Z" fill="#454e47"/>
+  <g fill="none" stroke="#b6c6ba" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="m724 228-10 9 10 9m24-18 10 9-10 9m-8-22-8 25"/>
+  </g>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="56" y="58" fill="#8a948d" font-family="Consolas, monospace" font-size="11" letter-spacing="3">CODE / SECURITY</text>
+    <text x="50" y="195" fill="#f1f3f1" font-size="80" font-weight="800" letter-spacing="-3">MIGUEL</text>
+    <path d="M56 224h44" stroke="#9db4a4" stroke-width="2"/>
+    <text x="56" y="260" fill="#7c8b81" font-family="Consolas, monospace" font-size="13">&gt; _</text>
+    <path d="M32 309H928" stroke="#222723"/>
+    <text x="56" y="335" fill="#858b87" font-family="Consolas, monospace" font-size="10" letter-spacing="2">PYTHON / TAILWIND CSS / CSS / JAVASCRIPT / PHP / DART</text>
+    <text x="904" y="335" text-anchor="end" fill="#77887d" font-family="Consolas, monospace" font-size="10">&lt;/&gt;</text>
+  </g>
 </g>
-<g font-family="Segoe UI, Arial, sans-serif">
-<text x="56" y="56" fill="#eee" font-size="16" font-weight="700" letter-spacing="5">KQPU</text>
-<text x="580" y="55" text-anchor="end" fill="#858585" font-family="Consolas, monospace" font-size="11" letter-spacing="2">DEVELOPER / CREATOR</text>
-<text x="52" y="156" fill="#fafafa" font-size="62" font-weight="800" letter-spacing="-2">IDEIAS EM</text>
-<text x="52" y="223" fill="#fafafa" font-size="62" font-weight="800" letter-spacing="-2">CÓDIGO.</text>
-<text x="56" y="268" fill="#999" font-family="Consolas, monospace" font-size="13">Da primeira linha à próxima possibilidade.</text>
-<text x="56" y="327" fill="#777" font-family="Consolas, monospace" font-size="10" letter-spacing="2">PYTHON / TAILWIND CSS / CSS / JAVASCRIPT / PHP / DART</text>
-<text x="898" y="327" text-anchor="end" fill="#888" font-family="Consolas, monospace" font-size="11">&lt;/&gt;</text>
-</g>
-</g><rect x=".5" y=".5" width="959" height="359" rx="16" fill="none" stroke="#262626"/>
+<rect x=".5" y=".5" width="959" height="359" rx="16" fill="none" stroke="#262d28"/>
 </svg>
