@@ -1,6 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="100" viewBox="0 0 960 100" role="img" aria-labelledby="title">
-<title id="title">Menos ruído. Mais código.</title>
-<rect x=".5" y=".5" width="959" height="99" rx="12" fill="#030303" stroke="#262626"/>
-<path d="M32 50H238M722 50H928" stroke="#292929"/>
-<text x="480" y="55" text-anchor="middle" font-family="Consolas, monospace" font-size="13" letter-spacing="3" fill="#aaa">MENOS RUÍDO. MAIS CÓDIGO.</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="56" viewBox="0 0 960 56" role="img" aria-label="Divisor decorativo escuro">
+<rect x=".5" y=".5" width="959" height="55" rx="12" fill="#030303" stroke="#262626"/>
+<path d="M32 28H445M515 28H928" stroke="#292929"/>
+<path d="m480 21 7 7-7 7-7-7Z" fill="none" stroke="#707770"/>
 </svg>
