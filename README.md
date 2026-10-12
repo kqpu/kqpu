@@ -10,7 +10,7 @@ Python · Tailwind CSS · Kali Linux · JavaScript · PHP · MySQL
 
 <p align="center">
   Aluno da instituição de ensino <strong>ETEC — Escola Técnica Estadual de São Paulo</strong>.<br>
-  Cursando o <strong>2º de 3 anos</strong> do curso de <strong>Informática para Internet</strong>.
+  Cursando o <strong>2º ano</strong> do curso de <strong>Informática para Internet</strong>.
 </p>
 
 <br>
