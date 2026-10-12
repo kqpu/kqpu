@@ -1,5 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="56" viewBox="0 0 960 56" role="img" aria-label="Divisor decorativo escuro">
-<rect x=".5" y=".5" width="959" height="55" rx="12" fill="#030303" stroke="#262626"/>
-<path d="M32 28H445M515 28H928" stroke="#292929"/>
-<path d="m480 21 7 7-7 7-7-7Z" fill="none" stroke="#707770"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="124" viewBox="0 0 960 124" role="img" aria-labelledby="title desc">
+<title id="title">Sobre mim</title>
+<desc id="desc">Sou estudante de programação e cibersegurança. Estou aprendendo e praticando com meus projetos.</desc>
+<rect x=".5" y=".5" width="959" height="123" rx="12" fill="#030303" stroke="#262626"/>
+<g font-family="Segoe UI, Arial, sans-serif" text-anchor="middle">
+<text x="480" y="53" font-size="20" fill="#dedede">Sou estudante de programação e cibersegurança.</text>
+<text x="480" y="86" font-size="16" fill="#999999">Estou aprendendo e praticando com meus projetos.</text>
+</g>
 </svg>
