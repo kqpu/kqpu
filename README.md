@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/kqpu/kqpu/259736ca16021749a2f05255550ed24ba0e7a59d/assets/banner.svg" width="960" alt="M — banner preto com programador, notebook, terminal e escudo de cibersegurança." />
+<img src="https://raw.githubusercontent.com/vfyx/vfyx/818b710ab2dff231bd06067ffda89974459f212d/assets/banner.svg" width="960" alt="M — banner preto com programador, notebook, terminal e escudo de cibersegurança." />
 
 <br>
 
 ### Código, interfaces e novas possibilidades.
 
-Python · Tailwind CSS · Kali Linux · JavaScript · PHP · Dart
+Python · Tailwind CSS · Kali Linux · JavaScript · PHP · MySQL
 
 <br>
 
-<img src="https://raw.githubusercontent.com/kqpu/kqpu/f6006ca34cc2251f61204d0a3477e20325976313/assets/technologies.svg" width="960" alt="Tecnologias que conheço: Python, Tailwind CSS, Kali Linux (estudante em cibersegurança), JavaScript, PHP e Dart, em cartões pretos com ícones monocromáticos." />
+<img src="https://raw.githubusercontent.com/vfyx/vfyx/818b710ab2dff231bd06067ffda89974459f212d/assets/technologies.svg" width="960" alt="Tecnologias que conheço: Python, Tailwind CSS, Kali Linux (estudante em cibersegurança), JavaScript, PHP e MySQL, em cartões pretos com ícones monocromáticos." />
 
 <br>
 
