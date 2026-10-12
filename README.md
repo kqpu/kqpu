@@ -1,6 +1,6 @@
 <div align="center">
 
-![Banner com o texto: Código, estilo e possibilidades.](./assets/banner.svg)
+<img src="./assets/banner.svg" width="960" alt="Código, estilo e possibilidades." />
 
 ### Olá! Bem-vindo ao meu perfil 👋
 
@@ -16,10 +16,12 @@ Minha caixa de ferramentas para programar e criar interfaces.
 
 <br>
 
-![Tecnologias que conheço: Python, Tailwind CSS, CSS, JavaScript, PHP e Dart.](./assets/technologies.svg)
+<img src="./assets/technologies.svg" width="960" alt="Tecnologias que conheço: Python, Tailwind CSS, CSS, JavaScript, PHP e Dart." />
 
 <br>
 
-<sub>Feito de ideias, código e vontade de criar.</sub>
+<img src="./assets/footer.svg" width="960" alt="Da ideia à interface. Feito de ideias, código e vontade de criar." />
 
 </div>
+
+<!-- Ícones: Devicon (licença MIT em assets/icons/LICENSE-devicon.txt). -->

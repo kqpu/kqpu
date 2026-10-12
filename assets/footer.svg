@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="140" viewBox="0 0 960 140" role="img" aria-labelledby="title">
+  <title id="title">Da ideia à interface. Feito de ideias, código e vontade de criar.</title>
+  <defs>
+    <linearGradient id="line"><stop stop-color="#5eead4" stop-opacity="0"/><stop offset=".5" stop-color="#a5b4fc"/><stop offset="1" stop-color="#c4b5fd" stop-opacity="0"/></linearGradient>
+  </defs>
+  <rect x="1" y="1" width="958" height="138" rx="20" fill="#101827" stroke="#2d3b50"/>
+  <path d="M90 1H870" stroke="url(#line)" stroke-width="2"/>
+  <g text-anchor="middle" font-family="Segoe UI, Arial, sans-serif">
+    <text x="480" y="58" fill="#5eead4" font-size="12" font-weight="700" letter-spacing="4">DA IDEIA À INTERFACE</text>
+    <text x="480" y="94" fill="#b4bfd2" font-size="17">Feito de ideias, código e vontade de criar.</text>
+  </g>
+</svg>
