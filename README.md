@@ -1,27 +1,21 @@
 <div align="center">
 
-<img src="./assets/banner.svg" width="960" alt="Código, estilo e possibilidades." />
-
-### Olá! Bem-vindo ao meu perfil 👋
-
-Gosto de transformar ideias em código e dar forma a novas possibilidades.
-
-**Lógica para construir. Estilo para dar vida.**
+<img src="./assets/banner.svg" width="960" alt="kqpu — ideias em código. Banner preto com esfera orbital prateada." />
 
 <br>
 
-## Tecnologias que conheço
+### Código, interfaces e novas possibilidades.
 
-Minha caixa de ferramentas para programar e criar interfaces.
-
-<br>
-
-<img src="./assets/technologies.svg" width="960" alt="Tecnologias que conheço: Python, Tailwind CSS, CSS, JavaScript, PHP e Dart." />
+Python · Tailwind CSS · CSS · JavaScript · PHP · Dart
 
 <br>
 
-<img src="./assets/footer.svg" width="960" alt="Da ideia à interface. Feito de ideias, código e vontade de criar." />
+<img src="./assets/technologies.svg" width="960" alt="Tecnologias que conheço: Python, Tailwind CSS, CSS, JavaScript, PHP e Dart, em cartões pretos com ícones monocromáticos." />
+
+<br>
+
+<img src="./assets/footer.svg" width="960" alt="Menos ruído. Mais código." />
 
 </div>
 
-<!-- Ícones: Devicon (licença MIT em assets/icons/LICENSE-devicon.txt). -->
+<!-- Ícones adaptados de Devicon (licença MIT em assets/icons/LICENSE-devicon.txt). -->

@@ -1,39 +1,28 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="300" viewBox="0 0 960 300" role="img" aria-labelledby="title desc">
-  <title id="title">Código, estilo e possibilidades.</title>
-  <desc id="desc">Banner escuro com detalhes em verde e lilás e um símbolo de código.</desc>
-  <defs>
-    <linearGradient id="bg" x2="1" y2="1">
-      <stop stop-color="#101b2d"/>
-      <stop offset="1" stop-color="#171329"/>
-    </linearGradient>
-    <linearGradient id="accent">
-      <stop stop-color="#5eead4"/>
-      <stop offset="1" stop-color="#c4b5fd"/>
-    </linearGradient>
-    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
-      <circle cx="1" cy="1" r="1" fill="#a5b4fc" opacity=".12"/>
-    </pattern>
-  </defs>
-  <rect x="1" y="1" width="958" height="298" rx="24" fill="url(#bg)" stroke="#30344b"/>
-  <rect x="1" y="1" width="958" height="298" rx="24" fill="url(#dots)"/>
-  <path d="M48 1H912" stroke="url(#accent)" stroke-width="2"/>
-  <g font-family="Segoe UI, Arial, sans-serif">
-    <circle cx="53" cy="52" r="4" fill="#5eead4"/>
-    <text x="67" y="57" fill="#a6b4ca" font-size="12" font-weight="600" letter-spacing="3">MEU UNIVERSO EM CÓDIGO</text>
-    <text x="48" y="128" fill="#f8fafc" font-size="44" font-weight="700">Código, estilo</text>
-    <text x="48" y="181" fill="url(#accent)" font-size="44" font-weight="700">&amp; possibilidades.</text>
-    <text x="50" y="235" fill="#b4bfd2" font-size="16">Ideias ganham forma, uma linha de cada vez.</text>
-  </g>
-  <g transform="translate(702 67)">
-    <rect width="204" height="166" rx="18" fill="#0d1424" stroke="#39415b"/>
-    <path d="M0 34H204" stroke="#39415b"/>
-    <circle cx="19" cy="17" r="4" fill="#fb7185"/>
-    <circle cx="34" cy="17" r="4" fill="#fcd34d"/>
-    <circle cx="49" cy="17" r="4" fill="#5eead4"/>
-    <g fill="none" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
-      <path d="M64 76L40 100L64 124" stroke="#5eead4"/>
-      <path d="M140 76L164 100L140 124" stroke="#c4b5fd"/>
-      <path d="M116 66L89 134" stroke="#e2e8f0"/>
-    </g>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="360" viewBox="0 0 960 360" role="img" aria-labelledby="title desc">
+<title id="title">kqpu — ideias em código.</title>
+<desc id="desc">Banner preto com tipografia branca e uma esfera orbital em linhas prateadas.</desc>
+<defs>
+<radialGradient id="halo"><stop stop-color="#252525"/><stop offset="1" stop-color="#030303"/></radialGradient>
+<linearGradient id="silver" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fafafa"/><stop offset=".5" stop-color="#777"/><stop offset="1" stop-color="#242424"/></linearGradient>
+<clipPath id="clip"><rect width="960" height="360" rx="16"/></clipPath>
+</defs>
+<g clip-path="url(#clip)">
+<rect width="960" height="360" fill="#030303"/>
+<circle cx="763" cy="177" r="226" fill="url(#halo)"/>
+<g stroke="#171717" fill="none"><path d="M32 80H928M32 300H928M620 32V328"/><path d="M32 32h12m-6-6v12M916 32h12m-6-6v12M32 328h12m-6-6v12M916 328h12m-6-6v12" stroke="#666"/></g>
+<g transform="translate(762 185) rotate(-24)" stroke="url(#silver)" fill="none" stroke-width=".8">
+<circle r="112"/><ellipse rx="88" ry="112"/><ellipse rx="54" ry="112"/><ellipse rx="19" ry="112"/>
+<ellipse rx="112" ry="20"/><ellipse rx="112" ry="58"/><ellipse rx="112" ry="90"/>
+<ellipse rx="147" ry="40" transform="rotate(-18)" stroke="#aaa"/>
+</g>
+<g font-family="Segoe UI, Arial, sans-serif">
+<text x="56" y="56" fill="#eee" font-size="16" font-weight="700" letter-spacing="5">KQPU</text>
+<text x="580" y="55" text-anchor="end" fill="#858585" font-family="Consolas, monospace" font-size="11" letter-spacing="2">DEVELOPER / CREATOR</text>
+<text x="52" y="156" fill="#fafafa" font-size="62" font-weight="800" letter-spacing="-2">IDEIAS EM</text>
+<text x="52" y="223" fill="#fafafa" font-size="62" font-weight="800" letter-spacing="-2">CÓDIGO.</text>
+<text x="56" y="268" fill="#999" font-family="Consolas, monospace" font-size="13">Da primeira linha à próxima possibilidade.</text>
+<text x="56" y="327" fill="#777" font-family="Consolas, monospace" font-size="10" letter-spacing="2">PYTHON / TAILWIND CSS / CSS / JAVASCRIPT / PHP / DART</text>
+<text x="898" y="327" text-anchor="end" fill="#888" font-family="Consolas, monospace" font-size="11">&lt;/&gt;</text>
+</g>
+</g><rect x=".5" y=".5" width="959" height="359" rx="16" fill="none" stroke="#262626"/>
 </svg>
