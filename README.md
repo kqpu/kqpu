@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.svg" width="960" alt="kqpu — ideias em código. Banner preto com esfera orbital prateada." />
+<img src="https://raw.githubusercontent.com/kqpu/kqpu/ecd46fb2458baa47b6dd5201a233f4d31c107b15/assets/banner.svg" width="960" alt="kqpu — ideias em código. Banner preto com esfera orbital prateada." />
 
 <br>
 
@@ -10,11 +10,11 @@ Python · Tailwind CSS · CSS · JavaScript · PHP · Dart
 
 <br>
 
-<img src="./assets/technologies.svg" width="960" alt="Tecnologias que conheço: Python, Tailwind CSS, CSS, JavaScript, PHP e Dart, em cartões pretos com ícones monocromáticos." />
+<img src="https://raw.githubusercontent.com/kqpu/kqpu/ecd46fb2458baa47b6dd5201a233f4d31c107b15/assets/technologies.svg" width="960" alt="Tecnologias que conheço: Python, Tailwind CSS, CSS, JavaScript, PHP e Dart, em cartões pretos com ícones monocromáticos." />
 
 <br>
 
-<img src="./assets/footer.svg" width="960" alt="Menos ruído. Mais código." />
+<img src="https://raw.githubusercontent.com/kqpu/kqpu/ecd46fb2458baa47b6dd5201a233f4d31c107b15/assets/footer.svg" width="960" alt="Menos ruído. Mais código." />
 
 </div>
 
